@@ -1,0 +1,14 @@
+Package: com.saily.earth
+Name: Earth
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Change the Google Earth logo into the Saily logo!
+Maintainer: Saily
+Author: Saily
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/com.saily.earth_1.0_iphoneos-arm64.deb
+Size: 532804
+MD5sum: b0de38110fdad04fb4713cb222d49453
+SHA1: 866686952f56002fc53e1db5b4f680370834b033
+SHA256: 903734d6e6c330d1bbb2114ce007a1aced6d9e7129843d149c726fc61d56c773
